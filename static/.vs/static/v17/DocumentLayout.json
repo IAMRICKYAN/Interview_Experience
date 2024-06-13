@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|solutionrelative:static\\static_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|solutionrelative:static\\static_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|solutionrelative:static\\static_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FFDEE50-149C-453B-94FB-A73D018D45AE}|static\\static.vcxproj|solutionrelative:static\\static_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "static_04.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_04.cpp",
+              "RelativeDocumentMoniker": "static\\static_04.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_04.cpp",
+              "RelativeToolTip": "static\\static_04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T12:50:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "static_03.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_03.cpp",
+              "RelativeDocumentMoniker": "static\\static_03.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_03.cpp",
+              "RelativeToolTip": "static\\static_03.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T11:46:59.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "static_02.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_02.cpp",
+              "RelativeDocumentMoniker": "static\\static_02.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_02.cpp",
+              "RelativeToolTip": "static\\static_02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T11:44:41.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "static_01.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_01.cpp",
+              "RelativeDocumentMoniker": "static\\static_01.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\static\\static\\static_01.cpp",
+              "RelativeToolTip": "static\\static_01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T11:41:52.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

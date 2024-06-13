@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\overload_new_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\overload_new_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\Overload_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\Overload_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\new_delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\new_delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\mixed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\mixed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\heapmemory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\heapmemory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\stackmemory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\stackmemory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\stack_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{204305A0-55C6-4ED3-9B5E-E3FF5D0B3A6B}|Overload_new\\Overload_new.vcxproj|solutionrelative:Overload_new\\stack_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "overload_new_1.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\overload_new_1.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\overload_new_1.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\overload_new_1.cpp*",
+              "RelativeToolTip": "Overload_new\\overload_new_1.cpp*",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T13:18:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "new_delete.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\new_delete.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\new_delete.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\new_delete.cpp",
+              "RelativeToolTip": "Overload_new\\new_delete.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T12:02:03.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mixed.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\mixed.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\mixed.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\mixed.cpp",
+              "RelativeToolTip": "Overload_new\\mixed.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T11:36:04.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "heapmemory.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\heapmemory.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\heapmemory.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\heapmemory.cpp",
+              "RelativeToolTip": "Overload_new\\heapmemory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T09:14:14.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stackmemory.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\stackmemory.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\stackmemory.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\stackmemory.cpp",
+              "RelativeToolTip": "Overload_new\\stackmemory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T09:14:03.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stack_heap.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\stack_heap.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\stack_heap.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\stack_heap.cpp",
+              "RelativeToolTip": "Overload_new\\stack_heap.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T13:21:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Overload_new.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\Overload_new.cpp",
+              "RelativeDocumentMoniker": "Overload_new\\Overload_new.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\Overload_new\\Overload_new\\Overload_new.cpp",
+              "RelativeToolTip": "Overload_new\\Overload_new.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T12:53:35.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

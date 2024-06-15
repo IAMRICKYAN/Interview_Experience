@@ -1,0 +1,3 @@
+﻿  learnconst.cpp
+D:\OfficeWork\Project\C++\Interview_Experience\Interview_Experience\const\const\learnconst.cpp(19,16): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  const.vcxproj -> D:\OfficeWork\Project\C++\Interview_Experience\Interview_Experience\const\x64\Debug\const.exe

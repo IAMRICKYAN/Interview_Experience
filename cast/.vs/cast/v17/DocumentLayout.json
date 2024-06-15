@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\reinterpret_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|solutionrelative:cast\\reinterpret_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\const_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|solutionrelative:cast\\const_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\dynamic_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|solutionrelative:cast\\dynamic_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\static_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F358C6-EF26-49A6-A816-2B14BA82A22F}|cast\\cast.vcxproj|solutionrelative:cast\\static_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reinterpret_cast.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\reinterpret_cast.cpp",
+              "RelativeDocumentMoniker": "cast\\reinterpret_cast.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\reinterpret_cast.cpp",
+              "RelativeToolTip": "cast\\reinterpret_cast.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T09:42:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "const_cast.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\const_cast.cpp",
+              "RelativeDocumentMoniker": "cast\\const_cast.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\const_cast.cpp",
+              "RelativeToolTip": "cast\\const_cast.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T08:32:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dynamic_cast.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\dynamic_cast.cpp",
+              "RelativeDocumentMoniker": "cast\\dynamic_cast.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\dynamic_cast.cpp",
+              "RelativeToolTip": "cast\\dynamic_cast.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T13:51:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "static_cast.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\static_cast.cpp",
+              "RelativeDocumentMoniker": "cast\\static_cast.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\cast\\cast\\static_cast.cpp",
+              "RelativeToolTip": "cast\\static_cast.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T13:33:29.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

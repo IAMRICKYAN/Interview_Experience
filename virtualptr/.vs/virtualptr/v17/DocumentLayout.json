@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\vptr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\vptr4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\vptr2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\vptr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\thisptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\thisptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C094ED61-E287-4571-BF44-714BAF2D89A4}|virtualptr\\virtualptr.vcxproj|solutionrelative:virtualptr\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "vptr4.cpp",
               "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr4.cpp",
               "RelativeDocumentMoniker": "virtualptr\\vptr4.cpp",
               "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr4.cpp",
               "RelativeToolTip": "virtualptr\\vptr4.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAtAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-16T14:04:45.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "vptr3.cpp",
               "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr3.cpp",
               "RelativeDocumentMoniker": "virtualptr\\vptr3.cpp",
               "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr3.cpp",
               "RelativeToolTip": "virtualptr\\vptr3.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowCEAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-16T14:04:26.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "vptr2.cpp",
               "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr2.cpp",
               "RelativeDocumentMoniker": "virtualptr\\vptr2.cpp",
               "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\vptr2.cpp",
               "RelativeToolTip": "virtualptr\\vptr2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-16T14:03:59.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "normal.cpp",
               "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\normal.cpp",
               "RelativeDocumentMoniker": "virtualptr\\normal.cpp",
               "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\normal.cpp",
               "RelativeToolTip": "virtualptr\\normal.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAADAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-16T14:03:13.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "thisptr.cpp",
               "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\thisptr.cpp",
               "RelativeDocumentMoniker": "virtualptr\\thisptr.cpp",
               "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\Interview_Experience\\Interview_Experience\\virtualptr\\virtualptr\\thisptr.cpp",
               "RelativeToolTip": "virtualptr\\thisptr.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-16T13:36:00.195Z",
               "EditorCaption": ""

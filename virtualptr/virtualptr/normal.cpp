@@ -3,8 +3,8 @@ using namespace std;
 
 class A {
 public:
-    A() {};
-    ~A() {}
+    A() { cout << "A::A() is called" << endl; };
+    ~A() { cout << "A::~A() is called" << endl; }
 
     virtual void foo() {
         cout << "A::foo() is called" << endl;
@@ -13,8 +13,8 @@ public:
 
 class B : public A {
 public:
-    B() {}
-    ~B() {}
+    B() { cout << "B::B() is called" << endl; }
+    ~B() { cout << "B::~B() is called" << endl; }
 
     void foo() {
         cout << "B::foo() is called" << endl;
@@ -35,7 +35,7 @@ int main(void) {
     // a->fun();  // 错误，fun不是A的成员
     // a->fun1(); // 错误，fun1不是A的成员
 
-   
+    delete a;
 
     return 0;
 }
